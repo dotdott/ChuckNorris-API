@@ -1,4 +1,4 @@
-### check live
+### Check live
 - [Click here](https://dotdott.github.io/ChuckNorris-API/)
 - API source [Chuck Norris APi](https://api.chucknorris.io/)
 
